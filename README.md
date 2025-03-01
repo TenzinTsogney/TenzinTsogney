@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TenzinTsogney
-- 👀 I’m interested in ...editor,developer and crypto
+- 👀 I’m interested in ...editor,developer 
 - 🌱 I’m currently learning ...BCA 
 - 💞️ I’m looking to collaborate on ...startup company
 - 📫 How to reach me ...@ttsogney999
